@@ -1,10 +1,6 @@
-
-# EX NO: 1 -  Cloud-account-set-up-and-services
----
+# Cloud-account-set-up-and-services
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
-
----
 
 # Procedure
 # Step 1: Go to the AWS Website
@@ -58,18 +54,14 @@ For most beginners, select Basic Support.
 
 • Log in using your email and password to start using AWS services.
 
----
 
 # Create a user with administrative access
 After you sign up for an AWS account, secure your AWS account root user, enable AWS IAM Identity Center, and create an administrative user so that you don't use the root user for everyday tasks.
 
----
 
 # Secure your AWS account root user
 Sign in to the AWS Management Console (https://console.aws.amazon.com) as the account owner by choosing Root user and entering your AWS account email address. On the next page, enter your password.
 Turn on multi-factor authentication (MFA) for your root user.
-
----
 
 # Create user with administrative access
 Enable IAM Identity Center.
@@ -78,16 +70,16 @@ In IAM Identity Center, grant administrative access to a user.
 # Sign in as the user with administrative access
 To sign in with your IAM Identity Center user, use the sign-in URL that was sent to your email address when you created the IAM Identity Center user.
 
----
+
 # Services Overview:
 • Explore all the available services in AWS platform.
+# Output:
 
----
-# OUTPUT :
+![image](https://github.com/user-attachments/assets/54122f2f-f156-4b78-9b07-730a343f511d)
 
-![Screenshot 2025-05-21 153049](https://github.com/user-attachments/assets/fdb3c3f5-bdc1-41ef-a32d-82e0f0b917d6)
+![image](https://github.com/user-attachments/assets/6151762a-f261-4c40-adbe-37a6b38cd2d0)
 
-
-# RESULT :
+# Result:
 Thus an account was created in AWS platform and all the services were explored.
+
 
